@@ -53,9 +53,7 @@ public class Engine {
   // Player is either 0 or 1, row and column are valid and empty
   public void playerTurn(int player, int row, int col) {
 	// need to implement 
-	for (int i = 0; i < 2; i++) {
-		
-	}
+	
     return;
   }
 
